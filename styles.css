@@ -1,0 +1,29 @@
+p {
+    color: blue;
+  }
+
+  .coolStyles {
+    background-color: green;
+    color: purple;
+  }
+
+.small {
+    font-size: 0.5rem;
+}
+
+    #featureHeading {
+        text-decoration: underline;
+    }
+
+    li:nth-child(3n+1) {
+        background-color: deeppink;
+    }
+
+   div img {
+        width: 50vw;
+    }
+
+    div {
+        width: 70%;
+        border: 2px solid blueviolet;
+    }
